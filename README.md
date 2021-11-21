@@ -1,6 +1,7 @@
 # pandas-challenge
 
 Of the 576 active players, the vast majority are male (84%).
+
 ![image](https://user-images.githubusercontent.com/92783857/142768575-84f96bdf-d039-4f4f-bb27-dfdbd6e15ef8.png)
 
 On average, female players spend more per person ($4.47) than male players ($4.07).
